@@ -1,7 +1,11 @@
 <?php
-require("PHPMailerAutoload.php");
+require('PHPMailer.php');
+require('SMTP.php');
+require('Exception.php');
 
-
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
 function mailsend($email, $body, $subject, $name,$filenames = NULL)
 {
@@ -12,8 +16,9 @@ function mailsend($email, $body, $subject, $name,$filenames = NULL)
 	$mail->Host = "smtp.hostinger.in";  					// specify main and backup server
 	$mail->SMTPAuth = true;    	 							// turn on SMTP authentication
 	$mail->Username = "info@shdinde.in";  					// SMTP username
-	$mail->Password = "daSHDda@135$";						// SMTP password
-	$mail->Port = 587;
+	$mail->Password = "";						// SMTP password
+	$mail->SMTPSecure = 'ssl';                              //Enable implicit TLS encryption
+	$mail->Port       = 465;
 	$mail->From = "info@shdinde.in";
 	$mail->FromName = "Shailesh Dinde";
 	$mail->addReplyTo($email);	
