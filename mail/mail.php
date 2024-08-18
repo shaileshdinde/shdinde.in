@@ -15,11 +15,11 @@ function mailsend($email, $body, $subject, $name,$filenames = NULL)
 	$mail->CharSet = 'UTF-8';
 	$mail->Host = "smtp.hostinger.in";  					// specify main and backup server
 	$mail->SMTPAuth = true;    	 							// turn on SMTP authentication
-	$mail->Username = "info@shdinde.in";  					// SMTP username
+	$mail->Username = "no-reply@shdinde.in";  					// SMTP username
 	$mail->Password = "";						// SMTP password
 	$mail->SMTPSecure = 'ssl';                              //Enable implicit TLS encryption
 	$mail->Port       = 465;
-	$mail->From = "info@shdinde.in";
+	$mail->From = "no-reply@shdinde.in";
 	$mail->FromName = "Shailesh Dinde";
 	$mail->addReplyTo($email);	
 	$mail->AddAddress("shdinde@gmail.com");	
