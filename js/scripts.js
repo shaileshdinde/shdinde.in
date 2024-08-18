@@ -269,12 +269,12 @@ $(window).on("load", function () {
             complete: function () {},
             success: function (response) {                
               if (response.value == 1) {
-                alert("1");
+                // alert("1");
                 // $(".alert-success").show();
                 $("#cform").fadeOut(), $(".alert-success").delay(1e3).fadeIn();
                 $(".alert-danger").hide();
               } else {
-                alert("0");
+                // alert("0");
                 // $(".alert-success").show();
                 $("#cform").fadeOut(), $(".alert-danger").delay(1e3).fadeIn();
                 $(".alert-success").hide();
