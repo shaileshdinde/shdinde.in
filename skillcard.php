@@ -35,7 +35,7 @@
                             <li class="border-line-h">
                                 <div class="name">Automation Testing</div>
                                 <div class="progress">
-                                    <div class="percentage" style="width: 90%"></div>
+                                    <div class="percentage" style="width: 100%"></div>
                                 </div>
                             </li>
                             <li>
@@ -100,13 +100,13 @@
                             </li>
                             <li>
                                 <div class="name">IoT</div>
-                                <div class="progress p75">
-                                    <span>75%</span>
+                                <div class="progress p80">
+                                    <span>80%</span>
                                 </div>
                             </li>
                             <li>
                                 <div class="name">HTML / CSS</div>
-                                <div class="progress p85">
+                                <div class="progress p90">
                                     <span>90%</span>
                                 </div>
                             </li>
@@ -141,16 +141,13 @@
                         </div>
                         <ul>
                             <li>
-                                <div class="name">Website development</div>
-                            </li>
-                            <li>
-                                <div class="name">Responsive development</div>
+                                <div class="name">Responsive Website development</div>
                             </li>
                             <li>
                                 <div class="name">Website hosting</div>
                             </li>
                             <li>
-                                <div class="name">Database programming</div>
+                                <div class="name">Database programming(SQL)</div>
                             </li>
                             <li>
                                 <div class="name">IoT development</div>
@@ -163,6 +160,11 @@
                             </li>
                             <li>
                                 <div class="name">
+                                    Java - Spring Boot
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">
                                     Automation Testing using Selenium
                                 </div>
                             </li>
@@ -172,13 +174,10 @@
                                 </div>
                             </li>
                             <li>
-                                <div class="name">Agile Methodology</div>
-                            </li>
-                            <li>
                                 <div class="name">LaTex programming</div>
                             </li>
                             <li>
-                                <div class="name">Jira,GIT,Jenkin</div>
+                                <div class="name">Tools - Jira,GIT,Jenkins</div>
                             </li>
                         </ul>
                     </div>
@@ -204,17 +203,15 @@
                             <div class="item">
                                 <div class="revs-item">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                                        elit. Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit.
+                                        Shailesh's dedication to continuous learning and sharing his expertise is inspiring. His mentorship has greatly impacted my professional growth.
                                     </div>
                                     <div class="user">
                                         <div class="img">
-                                            <img src="images/man1.jpg" alt="" />
+                                            <!-- <img src="images/man1.jpg" alt="" /> -->
                                         </div>
                                         <div class="info">
-                                            <div class="name">Helen Floyd</div>
-                                            <div class="company">Art Director</div>
+                                            <div class="name">Swapnil Patil</div>
+                                            <div class="company"></div>
                                         </div>
                                         <div class="clear"></div>
                                     </div>
@@ -223,17 +220,15 @@
                             <div class="item">
                                 <div class="revs-item">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                                        elit. Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit.
+                                        Working with Shailesh was a game-changer. His deep knowledge of cloud computing and automation testing transformed our development process, making it more efficient and robust. His commitment to delivering quality is unparalleled.
                                     </div>
                                     <div class="user">
                                         <div class="img">
-                                            <img src="images/man1.jpg" alt="" />
+                                            <!-- <img src="images/man1.jpg" alt="" /> -->
                                         </div>
                                         <div class="info">
-                                            <div class="name">Robert Chase</div>
-                                            <div class="company">CEO</div>
+                                            <div class="name">Ajinkya Dixit</div>
+                                            <div class="company">Founder - Aerobotix Techsolutions</div>
                                         </div>
                                         <div class="clear"></div>
                                     </div>
@@ -242,17 +237,15 @@
                             <div class="item">
                                 <div class="revs-item">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                                        elit. Lorem ipsum dolor sit amet, consectetur
-                                        adipiscing elit.
+                                        Shailesh is a brilliant mentor with a knack for breaking down complex concepts into digestible information. Highly recommended for anyone serious about tech.
                                     </div>
                                     <div class="user">
                                         <div class="img">
-                                            <img src="images/man1.jpg" alt="" />
+                                            <!-- <img src="images/man1.jpg" alt="" /> -->
                                         </div>
                                         <div class="info">
-                                            <div class="name">Helen Floyd</div>
-                                            <div class="company">Art Director</div>
+                                            <div class="name">Dr Jaydip Patil</div>
+                                            <div class="company">Asst Dean DYP-ATU</div>
                                         </div>
                                         <div class="clear"></div>
                                     </div>

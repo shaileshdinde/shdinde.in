@@ -38,7 +38,7 @@
                         </div>
                         <div class="desc">
                             <div>
-                                <p>I have conducted 30+ hands-on workshops on various topics in different Engineering colleges.</p>
+                                <p>I have conducted 50+ hands-on workshops on various topics in different Engineering colleges.</p>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                 <div class="col col-d-3 col-t-3 col-m-6 border-line-v">
                     <div class="fuct-item">
                         <div class="icon"><span class="fa fa-bullhorn"></span></div>
-                        <div class="name">30+ Workshops </div>
+                        <div class="name">50+ Workshops </div>
                     </div>
                 </div>
 
@@ -101,7 +101,7 @@
                 <div class="col col-d-3 col-t-3 col-m-6 border-line-v">
                     <div class="fuct-item">
                         <div class="icon"><span class="fa fa-users"></span></div>
-                        <div class="name">2000+ Students</div>
+                        <div class="name">3000+ Students</div>
                     </div>
                 </div>
 
@@ -147,7 +147,7 @@
                 <div class="col col-d-3 col-t-3 col-m-6 border-line-v">
                     <div class="client-item">
                         <div class="image">
-                            <a target="_blank" href="http://www.aerobotixtechsolutions.com/">
+                            <a target="_blank" href="https://aerobotix.in/">
                                 <img src="images/clients/aero.png" alt="" />
                             </a>
                         </div>
@@ -158,7 +158,7 @@
                 <div class="col col-d-3 col-t-3 col-m-6 border-line-v">
                     <div class="client-item">
                         <div class="image">
-                            <a target="_blank" href="https://shdinde.in/">
+                            <a target="_blank" href="#">
                                 <img src="images/clients/brainice.png" alt="" />
                             </a>
                         </div>
@@ -169,7 +169,7 @@
                 <div class="col col-d-3 col-t-3 col-m-6 border-line-v">
                     <div class="client-item">
                         <div class="image">
-                            <a target="_blank" href="https://www.google.com/">
+                            <a target="_blank" href="#">
                                 <img src="images/clients/varadlaxmi.png" alt="" />
                             </a>
                         </div>

@@ -27,7 +27,7 @@
                 <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
                     <div class="info-list">
                         <ul>
-                            <li><strong>Age . . . . .</strong> 32</li>
+                            <li><strong>Age . . . . .</strong> <?= date_diff(date_create('1990-05-27'), date_create('today'))->y ?></li>
                             <li><strong>Residence . . . . .</strong> India</li>
                             <li><strong>Freelance . . . . .</strong> Available</li>
                             <li><strong>Address . . . . .</strong> Kolhapur MH,IN</li>
@@ -56,7 +56,7 @@
                     <div class="resume-items">
                         <div class="resume-item border-line-h active">
                             <div class="date">2021 - Present</div>
-                            <div class="name">Senior Developer</div>
+                            <div class="name">Associate QA Lead</div>
                             <div class="company">Windmill Smart Solutions</div>
                             <p>
                                 Collaborate with creative and development teams on the
@@ -91,6 +91,14 @@
                         <div class="name">Education</div>
                     </div>
                     <div class="resume-items">
+                        <div class="resume-item border-line-h active">
+                            <div class="date">2024 -</div>
+                            <div class="name">PhD Computer Engineering</div>
+                            <div class="company">Kolhapur</div>
+                            <p>
+                                Pursing PhD course in Computer Engineering
+                            </p>
+                        </div>
                         <div class="resume-item border-line-h">
                             <div class="date">2013 - 2015</div>
                             <div class="name">University of Pune</div>
@@ -108,16 +116,7 @@
                                 Bachelor's Degree in Information Technology at KIT’s
                                 College of Engineering, Kolhapur.
                             </p>
-                        </div>
-                        <div class="resume-item">
-                            <div class="date">2009 - 2012</div>
-                            <div class="name">MSBTE</div>
-                            <div class="company">Pune</div>
-                            <p>
-                                Diploma course in Information Technology at Institute Of
-                                Civil And Rural Engineering, Gorgoti
-                            </p>
-                        </div>
+                        </div>                        
                     </div>
                 </div>
 
