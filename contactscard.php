@@ -11,12 +11,8 @@
                 <div class="col col-d-12 col-t-12 col-m-12 border-line-v">
                     <div class="info-list">
                         <ul>
-                            <li>
-                                <strong>Address . . . . .</strong> Kolhapur MH,IN
-                            </li>
-                            <li>
-                                <strong>Email . . . . .</strong> shdinde@gmail.com / info@shdinde.in
-                            </li>
+                            <li><strong>Address . . . . .</strong> Kolhapur MH,IN</li>
+                            <li><strong>Email . . . . .</strong> shdinde@gmail.com / info@shdinde.in</li>
                             <li><strong>Phone . . . . .</strong> +91 8888 763 563</li>
                             <li><strong>To Help . . . . .</strong> Available</li>
                         </ul>

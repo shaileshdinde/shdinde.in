@@ -1,15 +1,10 @@
-<!-- 
-				Card - About
-			-->
+<!--Card - About-->
 <div class="card-inner animated active" id="about-card">
     <div class="card-wrap">
-        <!-- 
-						About 
-					-->
+        <!-- About -->
         <div class="content about">
             <!-- title -->
             <div class="title">About Me</div>
-
             <!-- content -->
             <div class="row">
                 <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
@@ -29,7 +24,7 @@
                         <ul>
                             <li><strong>Age . . . . .</strong> <?= date_diff(date_create('1990-05-27'), date_create('today'))->y ?></li>
                             <li><strong>Residence . . . . .</strong> India</li>
-                            <li><strong>Freelance . . . . .</strong> Available</li>
+                            <li><strong>To Help . . . . .</strong> Available</li>
                             <li><strong>Address . . . . .</strong> Kolhapur MH,IN</li>
                         </ul>
                     </div>
@@ -38,9 +33,7 @@
             </div>
         </div>
 
-        <!--
-						Resume
-					-->
+        <!--Resume-->
         <div class="content resume">
             <!-- title -->
             <div class="title">Resume</div>
@@ -55,7 +48,15 @@
                     </div>
                     <div class="resume-items">
                         <div class="resume-item border-line-h active">
-                            <div class="date">2021 - Present</div>
+                            <div class="date">2025 - Present</div>
+                            <div class="name">QA Lead</div>
+                            <div class="company">Aiotlogy Services pvt ltd</div>
+                            <p>
+                                Collaborated with developers to ensure timely bug fixes and software releases.
+                            </p>
+                        </div>
+                        <div class="resume-item border-line-h">
+                            <div class="date">2021 - 2025</div>
                             <div class="name">Associate QA Lead</div>
                             <div class="company">Windmill Smart Solutions</div>
                             <p>
@@ -96,7 +97,7 @@
                             <div class="name">PhD Computer Engineering</div>
                             <div class="company">Kolhapur</div>
                             <p>
-                                Pursing PhD course in Computer Engineering
+                                Pursing PhD course in Computer Engineering, D. Y. Patil Education Society (Deemed to be University), Kolhapur
                             </p>
                         </div>
                         <div class="resume-item border-line-h">

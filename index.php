@@ -79,8 +79,7 @@
 						<a target="_blank" href="https://www.facebook.com/dindeshailesh"><span class="fa fa-facebook"></span></a>
 						<a target="_blank" href="https://www.linkedin.com/in/dindeshailesh/"><span class="fa fa-linkedin"></span></a>
 						<a target="_blank" href="https://github.com/shaileshdinde"><span class="fa fa-github"></span></a>
-						<a target="_blank" href="https://wa.me/918888763563"><span class="fa fa-whatsapp"></span></a>
-						<a target="_blank" href="https://stackoverflow.com/"><span class="fa fa-stack-overflow"></span></a>
+						<a target="_blank" href="https://wa.me/918888763563"><span class="fa fa-whatsapp"></span></a>						
 					</div>
 					</br>
 					<div class="subtitle subtitle-typed ">
@@ -92,7 +91,7 @@
 
 					<!-- profile buttons -->
 					<div class="lnks">
-						<a href="Shailesh_Dinde.pdf" class="lnk" target="_blank">
+						<a href="images/Shailesh_Dinde.pdf" class="lnk" target="_blank">
 							<span class="fa fa-download"></span><span class="text">Download CV</span>
 						</a>
 						<a href="https://wa.me/918888763563" class="lnk discover">
@@ -134,12 +133,23 @@
 	<script src="js/typed.js"></script>
 	<script src="js/8da76d029b.js"></script>
 	<script src="js/scripts.js"></script>
+	 <script src="https://www.google.com/recaptcha/api.js?render=6Lfy4CArAAAAADjbTmU0UB_jJG90NfBLGusLYpF2"></script>
 	<script>
         $(document).ready(function() {     
 			$('#mailmsg').hide(); 
 				$('#failmailmsg').hide();                              
         })
     </script>
+        <script>
+      function onClick(e) {
+        e.preventDefault();
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6Lfy4CArAAAAADjbTmU0UB_jJG90NfBLGusLYpF2', {action: 'submit'}).then(function(token) {
+              // Add your logic to submit to your backend server here.
+          });
+        });
+      }
+  </script>
 </body>
 
 </html>

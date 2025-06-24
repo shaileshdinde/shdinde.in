@@ -1,11 +1,7 @@
-<!--
-				Card - skill
-			-->
+<!--Card - skill-->
 <div class="card-inner" id="skills-card">
     <div class="card-wrap">
-        <!--
-						Skills
-					-->
+        <!--Skills-->
         <div class="content skills">
             <!-- title -->
             <div class="title">My Skills</div>
@@ -73,13 +69,7 @@
                                 <div class="progress">
                                     <div class="percentage" style="width: 90%"></div>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="name">Japanese</div>
-                                <div class="progress">
-                                    <div class="percentage" style="width: 20%"></div>
-                                </div>
-                            </li>
+                            </li>                            
                         </ul>
                     </div>
                 </div>
@@ -111,23 +101,23 @@
                                 </div>
                             </li>
                             <li>
-                                <div class="name">Java Selenium</div>
+                                <div class="name">JavaScript</div>
+                                <div class="progress p95">
+                                    <span>85%</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="name">Java</div>
                                 <div class="progress p95">
                                     <span>95%</span>
                                 </div>
                             </li>
                             <li>
-                                <div class="name">Java Rest-Assured</div>
+                                <div class="name">Java Automation Testing</div>
                                 <div class="progress p85">
                                     <span>85%</span>
                                 </div>
-                            </li>
-                            <li>
-                                <div class="name">Selenide</div>
-                                <div class="progress p95">
-                                    <span>85%</span>
-                                </div>
-                            </li>
+                            </li>                            
                         </ul>
                     </div>
                 </div>
@@ -159,19 +149,13 @@
                                 <div class="name">Cloud computing</div>
                             </li>
                             <li>
-                                <div class="name">
-                                    Java - Spring Boot
-                                </div>
+                                <div class="name">Java - Spring Boot</div>
                             </li>
                             <li>
-                                <div class="name">
-                                    Automation Testing using Selenium
-                                </div>
+                                <div class="name"> Automation Testing using Selenium</div>
                             </li>
                             <li>
-                                <div class="name">
-                                    API automation using Rest-assured
-                                </div>
+                                <div class="name">API automation using Rest-assured</div>
                             </li>
                             <li>
                                 <div class="name">LaTex programming</div>
@@ -187,9 +171,7 @@
             </div>
         </div>
 
-        <!--
-						Testimonials
-					-->
+        <!--Testimonials-->
         <div class="content testimonials">
             <!-- title -->
             <div class="title">Testimonials</div>
